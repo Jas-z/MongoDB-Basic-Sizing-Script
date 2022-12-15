@@ -8,3 +8,4 @@ The purpose of this script is to provide a first point of estimation for a Mongo
 2. Connect to your cluster
 3. Copy and paste the script into your session
 
+[getStorageDetails.js](https://github.com/Jas-z/MongoDB-Basic-Sizing-Script/blob/main/getStorageDetails.js).
