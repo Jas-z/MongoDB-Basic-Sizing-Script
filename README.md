@@ -4,7 +4,7 @@ The purpose of this script is to provide a first point of estimation for a Mongo
 
 **Instructions**
 
-Download and install [MongoDB Shell/Compass](https://www.mongodb.com/try/download/shell).
-Connect to your cluster
-Copy and paste the script into your session
+1. Download and install [MongoDB Shell/Compass](https://www.mongodb.com/try/download/shell).
+2. Connect to your cluster
+3. Copy and paste the script into your session
 
